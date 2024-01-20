@@ -10,7 +10,7 @@ I really believed that this planned activities enabled students to delve deeper 
 
 Introduce smaller breakout sessions or workshops that allow attendees to delve deeper into specific topics or engage in hands-on activities. This provides a more enganging setting for discussions and promotes active participation.
 
-## Others
+## Personal Reflections , Ideas and Creativity
 
 I personally suggests all students, even not from computing faculty, to visits the NALI events to provide them exposure to the technological advances because I think 
 all students should also gains basic knowledge about IT and technology. People nowadays basically use advanced technologies and applications in their daily life. So,
