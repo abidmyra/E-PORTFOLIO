@@ -1,6 +1,6 @@
 # Reflections on Industrial Talk 1 - Overview of ICT Jobs in Clarity Techworks Sdn. Bhd.
 
-![IMG_2277](https://github.com/abidmyra/E-PORTFOLIO/assets/148435590/bfc7d478-40d4-45a8-a02a-757587e579bc)
+![IMG_2283](https://github.com/abidmyra/E-PORTFOLIO/assets/148435590/81881016-988a-4f1f-aa23-13e0f562d25e)
 
 ## Summary on what have I gained from the industrial talk 1
 
