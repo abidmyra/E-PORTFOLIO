@@ -13,4 +13,5 @@ I suggest letting students to learn and experienced themselves on how to manage 
 
 ## Personal Reflections ✒️
 
-Seeing that UTM is equipped with 
+From the attended virtual talk, seeing that UTM is equipped with lots of digital and ICT services such as UTMID, UTM SMART, UTM PORTAL and ICT POLICY amazed me and made me proud to continue my study here because it did make it easier for me as a student to access everything in UTM. For example, from UTM SMART apps alone, I can 
+noted the univerity's buses' schedules everyday. 
