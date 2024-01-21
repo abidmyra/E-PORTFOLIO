@@ -10,6 +10,7 @@ The assemble PC lab helped me and my classmates gain insights into the different
 Assembling a PC involves connecting various hardware components like the CPU, RAM, motherboard, storage devices, and hard disk.
 This assemble PC lab definitely provides a hands-on experience and allowing me along with other students to physically handle and 
 connect these components. This lab could made us easily relate to chapter two in subject Technology and Information System which is Hardware.
+The quiz also helped us to remember all the hardware components we assembled and remembered the steps. 
 
 ## Suggestions for improvements ✒️
 
