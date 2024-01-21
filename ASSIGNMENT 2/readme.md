@@ -2,11 +2,11 @@
 
 ![IMG_2283](https://github.com/abidmyra/E-PORTFOLIO/assets/148435590/81881016-988a-4f1f-aa23-13e0f562d25e)
 
-## Summary on what have I gained from the industrial talk 1
+## Summary on what have I gained from the industrial talk 1 📜
 
 I learned that technology is constantly changing rapidly following the current of modernity. So, basically, in order to get a job in the technology field, we need to continuosuly develop our skills in the field of technology by doing researches about the technological advances and aware of the development and advancement of technology.
 
-## Suggestions for improvement
+## Suggestions for improvement 💡
 
 In my opinion, maybe the presenters can use engagement tactics specific to virtual presentations, such as incorporating polls or breakout sessions.
 
