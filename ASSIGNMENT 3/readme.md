@@ -10,3 +10,7 @@ The visit to the UTMDigital impressed me as I could see the management and the o
 ## Suggestions for improvement 💡
 
 I suggest letting students to learn and experienced themselves on how to manage the systems and the technologies in the UTMDigital, most likely the simple ones like UTM wifi. Other than that, I think the managing teams can communicate effectively with users or spesifically, mostly students and lecturers about scheduled maintenance to manage expectations.
+
+## Personal Reflections ✒️
+
+Seeing that UTM is equipped with 
